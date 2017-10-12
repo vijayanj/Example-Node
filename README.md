@@ -1,4 +1,4 @@
-Welcome to Puppet Conf, Ebay
+Welcome to Puppet Conf, BAH
 # Getting Started Building and Deploying with Distelli - NodeJS Example
 
 This tutorial will get you setup, building, testing, and deploying an application with Distelli in minutes. 
