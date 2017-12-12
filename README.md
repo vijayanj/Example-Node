@@ -12,7 +12,7 @@ The scenario also expects that you have a **Destination** server available to do
 
 ### Step 1. Prepare Server for Deployment
 
-To enable auto deployment of an application you must have a destination server to deploy to.
+To enable auto deployment of an application, you must have a destination server to deploy to.
 
 If you don't have a server you can use a virtual server. For a simple guide to setting up a virtual server using Virtualbox and Vagrant see [Building Virtual Servers](http://docs.distelli.com/docs/building-virtual-servers).
 
