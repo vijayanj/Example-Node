@@ -5,6 +5,9 @@ user1/Example-Node:
 
   Build:
   - echo "build"
+  
+  CustomVersionCmd:
+  - echo "123"
 
   PkgInclude:
     - '*'
